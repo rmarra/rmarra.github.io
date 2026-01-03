@@ -1,0 +1,21 @@
+baseURL: https://rmarra.github.io/
+languageCode: en-us
+title: Marra's Blog
+theme: ["PaperMod"]
+params:
+  author: Raphael Marra
+  homeInfoParams:
+    title: Raphael Marra
+    content: >
+      Software Developer interested in software performance, distributed systems, linux/kernel and networking.
+
+
+      Currently a Software Specialist at [Digibee](https://www.digibee.com/).
+  socialIcons:
+    - name: github
+      title: Raphael Marra
+      url: "https://github.com/adityatelange/hugo-PaperMod"
+    - name: Linkedin
+      title: Raphael Marra
+      url: "https://linkedin.com/in/itsmarra"
+
